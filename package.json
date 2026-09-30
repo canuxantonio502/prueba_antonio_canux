@@ -1,0 +1,32 @@
+{
+  "name": "evaluacion_final",
+  "version": "0.0.1",
+  "description": "Evaluación final de conocimientos FullStack.",
+  "keywords": [
+    "Node.JS",
+    "API",
+    "SQL",
+    "Lógica"
+  ],
+  "homepage": "https://github.com/canuxantonio502/evaluacion_final#readme",
+  "bugs": {
+    "url": "https://github.com/canuxantonio502/evaluacion_final/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canuxantonio502/evaluacion_final.git"
+  },
+  "license": "ISC",
+  "author": "canuxantonio502",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.5",
+    "express": "^5.2.1",
+    "mysql2": "^3.24.5"
+  }
+}
